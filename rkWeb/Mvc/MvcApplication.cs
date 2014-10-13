@@ -40,7 +40,9 @@ namespace rkWeb.Mvc {
 
     public event BundleRegistration RegisterBundles;
 
-    protected CustomStyleBundle MakeStyleBundle()
+    protected CustomStyleBundle MakeStyleBundle() {
+      throw new NotImplementedException();
+    }
 
     private void RegisterBundlesInternal(BundleCollection bundles) {
       bundles.Add(new CustomStyleBundle("~/Styles/Fonts")
