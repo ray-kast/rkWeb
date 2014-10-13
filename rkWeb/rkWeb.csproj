@@ -152,6 +152,7 @@
     <Content Include="fonts\fontawesome-webfont.eot" />
     <Content Include="fonts\FontAwesome.otf" />
     <Content Include="Res\Fonts\Mixins.scss" />
+    <Content Include="Package.nuspec" />
     <None Include="Properties\PublishProfiles\Package Dir.pubxml" />
     <None Include="Res\XSD\BundleList.xsd" />
     <None Include="Scripts\jquery-2.1.1.intellisense.js" />
