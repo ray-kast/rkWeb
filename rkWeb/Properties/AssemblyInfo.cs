@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("rkWeb")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A collection of tools for unifying Web development across sites.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("rk1024")]
 [assembly: AssemblyProduct("rkWeb")]
 [assembly: AssemblyCopyright("Copyright © 2014")]
 [assembly: AssemblyTrademark("")]
