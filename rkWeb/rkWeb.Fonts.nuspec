@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package>
+  <metadata>
+    <id>rkWeb.Fonts</id>
+    <version>1.0.0.0</version>
+    <title>rkWeb Fonts</title>
+    <authors>rk1024</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A set of fonts with stylesheets to go with rkWeb.</description>
+    <releaseNotes>First release!</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>rkWeb font</tags>
+    <dependencies>
+      <dependency id="rkWeb" version="1.0.0.0"/>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Res\Fonts\**\*.*" target="content\Res\Fonts\" exclude="Res\Fonts\*.*" />
+  </files>
+</package>
